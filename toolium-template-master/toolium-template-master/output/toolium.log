@@ -1,0 +1,8 @@
+DEBUG   2017-01-17 12:34:03,639 [config_parser] Reading properties from file: C:\Users\User\Downloads\toolium-template-master\toolium-template-master\conf\properties.cfg
+WARNING 2017-01-17 12:34:03,639 [config_parser] Properties config file not found: C:\Users\User\Downloads\toolium-template-master\toolium-template-master\conf\local-properties.cfg
+INFO    2017-01-17 12:34:03,639 [config_driver] Creating local driver (type = firefox)
+ERROR   2017-01-17 12:34:03,655 [config_driver] Firefox driver can not be launched: [WinError 87] The parameter is incorrect
+DEBUG   2017-01-17 12:34:19,608 [config_parser] Reading properties from file: C:\Users\User\Downloads\toolium-template-master\toolium-template-master\conf\properties.cfg
+WARNING 2017-01-17 12:34:19,608 [config_parser] Properties config file not found: C:\Users\User\Downloads\toolium-template-master\toolium-template-master\conf\local-properties.cfg
+INFO    2017-01-17 12:34:19,608 [config_driver] Creating local driver (type = firefox)
+ERROR   2017-01-17 12:34:19,608 [config_driver] Firefox driver can not be launched: [WinError 87] The parameter is incorrect
